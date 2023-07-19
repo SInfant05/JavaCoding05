@@ -151,7 +151,7 @@ class CipherDecipher{
     }
 }
 
-public class Solution1 {
+public class CipherDecipher_soln {
 
     public static void main(String[] args){
         Scanner readInput = new Scanner(System.in);
